@@ -1,5 +1,5 @@
 # How-to-handle-Multiple-Rows-insert-from-A-Form-using-Eloquent-ORM-or-Query-Builder-in-Laravel
-Creating Multiple Rows insert from A Form using Eloquent ORM or Query Builder in Laravel
+
 
 Step1: create HTML form to submit array like this: 
 
