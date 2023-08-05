@@ -1,7 +1,7 @@
 # How-to-handle-Multiple-Rows-insert-from-A-Form-using-Eloquent-ORM-or-Query-Builder-in-Laravel
 
 
-Step1: create HTML form to submit array like this: 
+Step1: create HTML form to submit array like: 
 
 <input type="text"   name="refereename[]"/>
 <input type="text"   name="refereelocation[]"/> 
